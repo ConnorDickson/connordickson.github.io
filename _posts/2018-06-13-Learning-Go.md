@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Learning Go. Day one.
+title: Why start a blog?
 ---
 
 To learn golang of course
-
-## Why start a blog
 
 My reasoning for starting this blog was to document the journey through learning Go.
 
