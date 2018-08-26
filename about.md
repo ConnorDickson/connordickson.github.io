@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Connor Dickson and I'm a Software Engineer working in Belfast.
+My name is Connor Dickson and I'm a Senior Software Engineer working in Belfast.
 
-My knowledge is specialised around Azure, VSTS and .NET but I have a keen interest in learning new things.
+My knowledge is specialised around Azure, VSTS and C#/.NET but I have a keen interest in learning new things.
 
 As some background around myself, in the past I have;
 * Spent a lot of time working with different components in Microsoft Azure and expanding my knowledge through a combination of reading articles and hands on experience
