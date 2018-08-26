@@ -25,6 +25,8 @@ Next was [why use F#?](https://fsharpforfunandprofit.com/why-use-fsharp/). This 
 
 ## Next steps
 
+I created a repository [here](https://github.com/ConnorDickson/LearningF-) where I have added in some Interactive Examples.
+
 The next steps according to the [https://fsharpforfunandprofit.com](https://fsharpforfunandprofit.com) website is to follow through the whole of the ["Why use F#"](https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/) documentation of which there are 30 pages. So it seems like I will be doing a lot of research before I get to develop any code. This is alongside other programming reading I have set myself. There is plenty out there to learn, I just need to be sensible in what I choose.
 
 My goals are currently;
