@@ -3,6 +3,8 @@ layout: post
 title: Sum of squares example
 ---
 
+My first dive into F# development
+
 # I had my first dive into F# development
 
 I followed the [first code example](https://fsharpforfunandprofit.com/posts/fvsc-sum-of-squares/) on the [https://fsharpforfunandprofit.com](https://fsharpforfunandprofit.com) site which was a "sum of squares" comparison between C# and F#. I have never needed to evaluate the sum of squares before, but I can see how this is a useful comparison as it is a very basic example of a problem that any developer could solve using C# but translates it to F# to show how much better it is.
